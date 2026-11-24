@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+media/
+work/integral_check.jpg
+work/Half_Wave_Power_Factor_mux.mp4
+pscad/*.*/**
+!pscad/*.*/*.inf
+!pscad/*.*/*_01.out

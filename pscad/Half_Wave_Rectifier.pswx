@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<workspace name="Half_Wave_Rectifier" version="5.1.0">
+  <projects>
+    <project type="project" name="DirectResistor" filepath=".\DirectResistor.pscx" open="true" />
+    <project type="project" name="HalfWaveDiode" filepath=".\HalfWaveDiode.pscx" open="true" />
+  </projects>
+  <simulations />
+  <pmr />
+</workspace>

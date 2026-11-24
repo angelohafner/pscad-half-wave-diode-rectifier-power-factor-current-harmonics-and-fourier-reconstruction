@@ -1,0 +1,2 @@
+PGB(1)         Output  Desc="Voltage_V"  Group="Input"  Max=200  Min=-200  Units="V"  Path="Main(0):Voltage_V"
+PGB(2)         Output  Desc="Current_A"  Group="Input"  Max=20  Min=-20  Units="A"  Path="Main(0):Current_A"
