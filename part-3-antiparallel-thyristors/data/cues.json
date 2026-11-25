@@ -1,0 +1,52 @@
+[
+  {
+    "name": "intro",
+    "start": 0.1,
+    "duration": 11.946802721088435
+  },
+  {
+    "name": "positive",
+    "start": 12.475,
+    "duration": 15.046031746031746
+  },
+  {
+    "name": "negative",
+    "start": 29.51666666666667,
+    "duration": 12.032789115646258
+  },
+  {
+    "name": "symmetry",
+    "start": 41.975,
+    "duration": 12.662131519274377
+  },
+  {
+    "name": "spectrum",
+    "start": 55.05833333333334,
+    "duration": 18.031655328798188
+  },
+  {
+    "name": "synthesis",
+    "start": 73.51666666666667,
+    "duration": 13.025850340136055
+  },
+  {
+    "name": "fast",
+    "start": 86.975,
+    "duration": 6.69922902494331
+  },
+  {
+    "name": "overlay",
+    "start": 97.225,
+    "duration": 13.338730158730158
+  },
+  {
+    "name": "power",
+    "start": 110.975,
+    "duration": 16.45496598639456
+  },
+  {
+    "name": "finish",
+    "start": 127.85,
+    "duration": 17.55859410430839
+  }
+]

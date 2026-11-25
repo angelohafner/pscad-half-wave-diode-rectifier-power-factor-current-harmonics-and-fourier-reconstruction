@@ -6,6 +6,8 @@ How can the input power factor fall to 0.707 when the fundamental current is in 
 
 [Part 2: Thyristor firing at 90 degrees, fundamental phase lag and Gibbs ringing](./part-2-thyristor/README.md)
 
+[Part 3: Two antiparallel thyristors, half-wave symmetry and equal power factors](./part-3-antiparallel-thyristors/README.md)
+
 ## Measured at the source
 
 | Circuit | RMS voltage | RMS current | Active power | Apparent power | Power factor |

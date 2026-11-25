@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<workspace name="Part3_Antiparallel_90deg" version="5.1.0">
+  <projects>
+    <project type="project" name="AntiParallelSCR90" filepath=".\AntiParallelSCR90.pscx" open="true" />
+  </projects>
+  <simulations />
+  <pmr />
+</workspace>
