@@ -1,0 +1,52 @@
+[
+  {
+    "name": "intro",
+    "start": 0.1,
+    "duration": 12.819727891156463
+  },
+  {
+    "name": "freeze",
+    "start": 13.35,
+    "duration": 14.0340589569161
+  },
+  {
+    "name": "off",
+    "start": 29.35,
+    "duration": 15.652018140589568
+  },
+  {
+    "name": "area",
+    "start": 45.43333333333334,
+    "duration": 20.286848072562357
+  },
+  {
+    "name": "energy",
+    "start": 67.14166666666667,
+    "duration": 18.78639455782313
+  },
+  {
+    "name": "phase",
+    "start": 86.35,
+    "duration": 15.466122448979592
+  },
+  {
+    "name": "spectrum",
+    "start": 102.225,
+    "duration": 19.591201814058955
+  },
+  {
+    "name": "synthesis",
+    "start": 122.225,
+    "duration": 14.264671201814059
+  },
+  {
+    "name": "fast",
+    "start": 136.93333333333334,
+    "duration": 7.5790476190476195
+  },
+  {
+    "name": "overlay",
+    "start": 147.18333333333334,
+    "duration": 16.95487528344671
+  }
+]

@@ -8,6 +8,8 @@ How can the input power factor fall to 0.707 when the fundamental current is in 
 
 [Part 3: Two antiparallel thyristors, half-wave symmetry and equal power factors](./part-3-antiparallel-thyristors/README.md)
 
+[Part 4: Two antiparallel GTOs, gate turn-off at 120 degrees and load energy](./part-4-antiparallel-gtos/README.md)
+
 ## Measured at the source
 
 | Circuit | RMS voltage | RMS current | Active power | Apparent power | Power factor |
