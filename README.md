@@ -4,6 +4,8 @@ How can the input power factor fall to 0.707 when the fundamental current is in 
 
 [Watch or download the English-narrated film (MP4, 5 min 23 s, 1080p)](./Half_Wave_Power_Factor.mp4) · [Download the two PSCAD models and workspace (ZIP)](./Half_Wave_Rectifier_PSCAD.zip)
 
+[Part 2: Thyristor firing at 90 degrees, fundamental phase lag and Gibbs ringing](./part-2-thyristor/README.md)
+
 ## Measured at the source
 
 | Circuit | RMS voltage | RMS current | Active power | Apparent power | Power factor |
