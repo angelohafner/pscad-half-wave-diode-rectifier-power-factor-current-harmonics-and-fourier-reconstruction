@@ -1,0 +1,6 @@
+__pycache__/
+media/
+pscad/*.gf*/
+pscad/*.if*/
+pscad/*.psmx
+pscad/*.bakx

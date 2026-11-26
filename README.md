@@ -10,6 +10,10 @@ How can the input power factor fall to 0.707 when the fundamental current is in 
 
 [Part 4: Two antiparallel GTOs, gate turn-off at 120 degrees and load energy](./part-4-antiparallel-gtos/README.md)
 
+[Part 5: Equal energy, zero GTO fundamental lag, and the same true power factor](./part-5-equal-energy-gtos/README.md)
+
+[Part 6: Three GTO cases with the same energy and different fundamental displacement](./part-6-gto-leading-and-lagging/README.md)
+
 ## Measured at the source
 
 | Circuit | RMS voltage | RMS current | Active power | Apparent power | Power factor |
